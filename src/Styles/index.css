@@ -1,0 +1,59 @@
+@import '~antd/dist/antd.css';
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.Consejo{
+
+  text-align: center;
+}
+.button Button{
+color: black;
+  border-color: darkviolet;
+}
+.consejo_nuevo_generar{
+  margin-top: 50px;
+  display: flex;
+}
+.consejo_nuevo_generar button{
+  margin-left: 80px;
+}
+.listabusqueda h4{
+  text-align: center;
+
+}
+.listabusqueda  {
+  text-align: center;
+  margin-left: 100px;
+
+}
+.Contenido_lista{
+  text-align: center;
+  margin-left: 450px;
+}
+.Todoelproyecto{
+
+  text-align: center;
+}
+.consejo1{
+  text-align: center;
+}
+.Consejo1 h1{
+  text-align: center;
+}
+.cONSEJO_NUEVO {
+  text-align: center;
+}
+.buscar{
+  text-align: center;
+}
